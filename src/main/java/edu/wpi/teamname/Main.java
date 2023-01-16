@@ -8,6 +8,7 @@ public class Main {
     System.out.println("Sarah");
     System.out.println("Andrei");
     System.out.println("Jay");
+    System.out.println("Chris");
     App.launch(App.class, args);
     System.out.println("Isabella Lucas");
   }
